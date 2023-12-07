@@ -1,0 +1,68 @@
+{
+    "discord_webhook": {
+        "name": "discord_webhook",
+        "description": "",
+        "author": "",
+        "version": "",
+        "dependencies": [],
+        "commands": [],
+        "files": [
+            "discord_webhook.py"
+        ]
+    },
+    "auto_farmer": {
+        "name": "auto_farmer",
+        "description": "",
+        "author": "",
+        "version": "",
+        "dependencies": [],
+        "commands": [],
+        "files": [
+            "auto_farmer.py"
+        ]
+    },
+    "schematic_builder": {
+        "name": "schematic_builder",
+        "description": "",
+        "author": "",
+        "version": "",
+        "dependencies": [],
+        "commands": [],
+        "files": [
+            "schematic_builder.py"
+        ]
+    },
+    "cactus_farm_builder": {
+        "name": "cactus_farm_builder",
+        "description": "",
+        "author": "",
+        "version": "",
+        "dependencies": [],
+        "commands": [],
+        "files": [
+            "cactus_farm_builder.py"
+        ]
+    },
+    "chunk_miner": {
+        "name": "chunk_miner",
+        "description": "",
+        "author": "",
+        "version": "",
+        "dependencies": [],
+        "commands": [],
+        "files": [
+            "chunk_miner.py"
+        ]
+    },
+    "discordrp": {
+        "name": "discordrp",
+        "description": "",
+        "author": "",
+        "version": "",
+        "dependencies": [],
+        "commands": [],
+        "files": [
+            "discordrp.py"
+        ]
+    }
+}
