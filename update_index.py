@@ -14,9 +14,9 @@ with open("plugin_index.json", "r+") as plugin_index:
             name = plugin.replace(".py", "")
             plugin_data[name] = {
                 "name": name,
-                "description": "",
+                "description": "No description provided",
                 "author": "", 
-                "version": "",
+                "version": "1.0",
                 "dependencies": [],
                 "commands": [],
                 "files": [plugin],
@@ -25,5 +25,4 @@ with open("plugin_index.json", "r+") as plugin_index:
     plugin_index.seek(0)
     json.dump(plugin_data, plugin_index, indent=4)
     plugin_index.truncate()
-
-print(plugin_index)
+    print(plugin_index)

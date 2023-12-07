@@ -1,9 +1,9 @@
 {
     "discord_webhook": {
         "name": "discord_webhook",
-        "description": "",
+        "description": "No description provided",
         "author": "",
-        "version": "",
+        "version": "1.0",
         "dependencies": [],
         "commands": [],
         "files": [
@@ -12,9 +12,9 @@
     },
     "auto_farmer": {
         "name": "auto_farmer",
-        "description": "",
+        "description": "No description provided",
         "author": "",
-        "version": "",
+        "version": "1.0",
         "dependencies": [],
         "commands": [],
         "files": [
@@ -23,9 +23,9 @@
     },
     "schematic_builder": {
         "name": "schematic_builder",
-        "description": "",
+        "description": "No description provided",
         "author": "",
-        "version": "",
+        "version": "1.0",
         "dependencies": [],
         "commands": [],
         "files": [
@@ -34,9 +34,9 @@
     },
     "cactus_farm_builder": {
         "name": "cactus_farm_builder",
-        "description": "",
+        "description": "No description provided",
         "author": "",
-        "version": "",
+        "version": "1.0",
         "dependencies": [],
         "commands": [],
         "files": [
@@ -45,9 +45,9 @@
     },
     "chunk_miner": {
         "name": "chunk_miner",
-        "description": "",
+        "description": "No description provided",
         "author": "",
-        "version": "",
+        "version": "1.0",
         "dependencies": [],
         "commands": [],
         "files": [
@@ -56,9 +56,9 @@
     },
     "discordrp": {
         "name": "discordrp",
-        "description": "",
+        "description": "No description provided",
         "author": "",
-        "version": "",
+        "version": "1.0",
         "dependencies": [],
         "commands": [],
         "files": [
