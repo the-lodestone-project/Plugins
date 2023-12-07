@@ -5,7 +5,7 @@ import ast
 import inspect
 from javascript import require
 
-class cactus:
+class plugin:
         """
         Build in cactus farm builder plugin
         """

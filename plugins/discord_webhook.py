@@ -11,7 +11,7 @@ except:
 import ast
 import inspect
 
-class discord:
+class plugin:
         """
         Build in Discord plugin
         """

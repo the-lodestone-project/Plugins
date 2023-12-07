@@ -10,7 +10,7 @@ import json
 from types import SimpleNamespace
 import urllib.request
 
-class schematic:
+class plugin:
         """
         Build in schematic plugin.
         `bot.build_schematic(file)` to start building.

@@ -116,7 +116,7 @@ class CubeMiner:
         return self.euclideanMod(targetYaw - self.bot.entity.yaw + math.pi, math.pi * 2) - math.pi
 
 
-class ChunkMiner:
+class plugin:
     """
     Mine a chunk
     """

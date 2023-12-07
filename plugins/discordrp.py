@@ -2,7 +2,7 @@ import lodestone
 import ast
 import inspect
 
-class discordrp:
+class plugin:
         """
         Build in cactus farm builder plugin
         """
