@@ -75,5 +75,104 @@
         "files": [
             "2b2t_tools.py"
         ]
+    },
+    "raid_alerts": {
+        "name": "raid_alerts",
+        "description": "No description provided",
+        "author": "",
+        "version": "1.0",
+        "dependencies": [],
+        "commands": [],
+        "files": [
+            "raid_alerts.py"
+        ]
+    },
+    "auto_armor": {
+        "name": "auto_armor",
+        "description": "No description provided",
+        "author": "",
+        "version": "1.0",
+        "dependencies": [],
+        "commands": [],
+        "files": [
+            "auto_armor.py"
+        ]
+    },
+    "tree_farmer": {
+        "name": "tree_farmer",
+        "description": "No description provided",
+        "author": "",
+        "version": "1.0",
+        "dependencies": [],
+        "commands": [],
+        "files": [
+            "tree_farmer.py"
+        ]
+    },
+    "area_miner": {
+        "name": "area_miner",
+        "description": "No description provided",
+        "author": "",
+        "version": "1.0",
+        "dependencies": [],
+        "commands": [],
+        "files": [
+            "area_miner.py"
+        ]
+    },
+    "tunneler": {
+        "name": "tunneler",
+        "description": "No description provided",
+        "author": "",
+        "version": "1.0",
+        "dependencies": [],
+        "commands": [],
+        "files": [
+            "tunneler.py"
+        ]
+    },
+    "anti_captcha": {
+        "name": "anti_captcha",
+        "description": "No description provided",
+        "author": "",
+        "version": "1.0",
+        "dependencies": [],
+        "commands": [],
+        "files": [
+            "anti_captcha.py"
+        ]
+    },
+    "killaura": {
+        "name": "killaura",
+        "description": "No description provided",
+        "author": "",
+        "version": "1.0",
+        "dependencies": [],
+        "commands": [],
+        "files": [
+            "killaura.py"
+        ]
+    },
+    "shield_aura": {
+        "name": "shield_aura",
+        "description": "No description provided",
+        "author": "",
+        "version": "1.0",
+        "dependencies": [],
+        "commands": [],
+        "files": [
+            "shield_aura.py"
+        ]
+    },
+    "defender": {
+        "name": "defender",
+        "description": "No description provided",
+        "author": "",
+        "version": "1.0",
+        "dependencies": [],
+        "commands": [],
+        "files": [
+            "defender.py"
+        ]
     }
 }
