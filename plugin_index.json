@@ -1,7 +1,7 @@
 {
     "discord_webhook": {
         "name": "discord_webhook",
-        "description": "No description provided",
+        "description": "Send chat messages to a discord webhook",
         "author": "",
         "version": "1.0",
         "dependencies": [],
@@ -12,7 +12,7 @@
     },
     "auto_farmer": {
         "name": "auto_farmer",
-        "description": "No description provided",
+        "description": "Automatically farm crops",
         "author": "",
         "version": "1.0",
         "dependencies": [],
@@ -23,7 +23,7 @@
     },
     "schematic_builder": {
         "name": "schematic_builder",
-        "description": "No description provided",
+        "description": "Build schematics from a file",
         "author": "",
         "version": "1.0",
         "dependencies": [],
@@ -34,7 +34,7 @@
     },
     "cactus_farm_builder": {
         "name": "cactus_farm_builder",
-        "description": "No description provided",
+        "description": "Build a cactus farm",
         "author": "",
         "version": "1.0",
         "dependencies": [],
@@ -45,7 +45,7 @@
     },
     "chunk_miner": {
         "name": "chunk_miner",
-        "description": "No description provided",
+        "description": "Mine a chunk",
         "author": "",
         "version": "1.0",
         "dependencies": [],
@@ -56,13 +56,24 @@
     },
     "discordrp": {
         "name": "discordrp",
-        "description": "No description provided",
+        "description": "Discord rich presence",
         "author": "",
         "version": "1.0",
         "dependencies": [],
         "commands": [],
         "files": [
             "discordrp.py"
+        ]
+    },
+    "2b2t_tools": {
+        "name": "2b2t_tools",
+        "description": "Useful tools for 2b2t and other anarchy servers",
+        "author": "",
+        "version": "1.0",
+        "dependencies": [],
+        "commands": [],
+        "files": [
+            "2b2t_tools.py"
         ]
     }
 }
